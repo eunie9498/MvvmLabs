@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mvvm-labs</string>
+    <string name="try_count">도전 횟수</string>
+    <string name="input_word">입력</string>
+</resources>
