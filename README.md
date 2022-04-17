@@ -7,4 +7,4 @@ MVVM pratice with Goal List
 📍 LiveData <br>
 📍 Retrofit <br>
 📍 ViewBinding <br>
-📍 DagaBinding <br>
+📍 DataBinding <br>
