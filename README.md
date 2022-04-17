@@ -1,6 +1,10 @@
 # MvvmLabs
-MVVM pratice with ViewBinding
+MVVM pratice with Goal List
 
-library Version = `2.4.1`<br>
-androidx.lifecycle:lifecycle-viewmodel
 
+# Goal 🏅
+📍 MVVM <br>
+📍 LiveData <br>
+📍 Retrofit <br>
+📍 ViewBinding <br>
+📍 DagaBinding <br>
